@@ -1,0 +1,56 @@
+.main{
+    width: 600px;  
+    margin: 40px auto;
+    border: 1px solid lightgray;
+}
+.content{
+    width: 480px;
+    height: 380px;
+    background-color: white;
+    border: 1px solid rgb(37, 34, 34);
+    border-radius: 20px;
+    margin: 20px auto;
+
+}
+.con{
+    margin: 50px 50px;   
+}
+.head{
+    font-size: 30px;
+    font-family: monospace;
+    color: black;
+    font-weight: lighter;
+}
+
+.para{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: lightslategrey;
+    font-weight: lighter;
+    margin-top: -10px;
+}
+.user{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.icon{
+    margin-left: 100px;
+}
+
+.footer{
+    border-top: 1px solid lightgray;
+    padding: 20px 50px;
+    margin-top: -20px;
+    box-sizing: border-box;
+}
+
+.link{
+    border: none;
+    font-size: 18px;
+    background-color: transparent;
+    color: rgb(0, 97, 215) ;
+}
+
